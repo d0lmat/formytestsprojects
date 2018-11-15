@@ -1,0 +1,68 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+    GAME DEV
+https://habrahabr.ru/post/347948/ - Геймдизайнер. Кто это?
+http://hsbi.hse.ru/programs/vocational_retraining/menedzhment-igrovykh-internet-proektov/useful-resources/ - ПОЛЕЗНЫЕ РЕСУРСЫ ПО ГЕЙМДЕВУ
+https://www.redblobgames.com/grids/line-drawing.html
+https://habrahabr.ru/post/346696/ - Пишем многопользовательскую змейку на tornado
+https://habr.com/post/418685/ - Процедурная генерация уровней
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+		UNITY
+https://habrahabr.ru/post/345972/ - ТАУ для самых маленьких: пример реализации ПИД-регулятора в Unity3D
+https://habrahabr.ru/post/346370/ - Как создать внутриигровое меню в Unity
+https://habrahabr.ru/post/343728/ - Игра на Unity, с открытым кодом
+https://habrahabr.ru/company/pixonic/blog/343820/ - Дневник техлида: полгода разработки мобильного PvP
+https://habrahabr.ru/company/badoo/blog/345710/ - Ошибки новичка Unity, испытанные на собственной шкуре
+https://habrahabr.ru/post/341064/ - Оптимизируем PropertyDrawer под Unity3d
+https://habrahabr.ru/post/347904/ - Движение объекта к точке в Unity3D (математика)
+https://habr.com/post/413897/ - Unity3D ECS и Job System
+https://habr.com/post/359356/ - Создание 3D-шахмат в Unity
+https://habr.com/post/358658/ - Создание разрушаемых мешей
+https://habr.com/post/359062/ - Кто на новенького? Мой первый опыт в разработке игры – от идеи до публикации
+https://habr.com/post/424257/ - Карты из шестиугольников в Unity: части 1-3
+https://habr.com/post/424491/ - Карты из шестиугольников в Unity: неровности, реки и дороги
+https://habr.com/post/427567/ - Карты из шестиугольников в Unity: круговорот воды, эрозия, биомы, цилиндрическая карта
+https://catlikecoding.com/unity/tutorials/ - C# and Shader Tutorials
+https://habr.com/post/427401/ - Шейдеры растворения и исследования мира
+https://habr.com/post/412765/ - Введение в новую систему тайловых карт Unity
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+		PYTON
+https://habr.com/post/416617/ - Аналоги в Python и JavaScript. 
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+		ANGULAR 2+
+
+https://habr.com/post/416155/ - WebSockets в Angular: cоздаем Angular Service для работы с вебсокетами
+https://habrahabr.ru/company/ruvds/blog/347306/ - Приложения реального времени на TypeScript: разработка чата с применением WebSocket, Node и Angular
+https://habrahabr.ru/post/346242/ - Реактивные формы (reactive forms) Angular 5 (2+) Часть 1
+https://nrwl.io/nx - Nrwl Extensions for Angular
+https://bitbucket.org/furrya_black/cake-shop/src/abeffe99962cc1867b44577c9070e9b2a17435d1/src/app/?at=master - Пример магазина
+https://habrahabr.ru/post/349380/ - Angular 5: Unit тесты
+https://stackoverflow.com/questions/41379274/print-html-template-in-angular-2-ng-print-in-angular-2 - Print Page
+https://habrahabr.ru/company/infowatch/blog/330030/ - Динамический Angular или манипулируй правильно.
+https://habr.com/company/ruvds/blog/421345/ - Angular: неочевидные возможности селекторов директив.
+https://habr.com/company/ruvds/blog/425661/ - 22 совета Angular-разработчику. Часть 1.
+https://habr.com/company/tinkoff/blog/429692/ - Оптимизация обработки событий в Angular
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+		JS
+
+https://habr.com/post/359192/ - Классические алгоритмы и структуры данных на JavaScript.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+		Руководство по JavaScript
+https://habr.com/company/ruvds/blog/429552/ - часть 1: первая программа, особенности языка, стандарты
+https://habr.com/company/ruvds/blog/429556/ - часть 2: стиль кода и структура программ		
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+		DJANGO
+https://habrahabr.ru/post/160123/ - WebSocket-чат на Tornado для вашего Django-проекта
+https://habrahabr.ru/post/211094/ - Простейший способ добавить WebSocket в Django		
+https://habrahabr.ru/post/344086/ - Preview документов в программе на Python
+https://habrahabr.ru/post/313764/ - Стратегии расширения Django User Model
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+		HTML+-CSS
+https://habr.com/post/425881/ - Все, что вам нужно знать о выравнивании во Flexbox
+https://habrahabr.ru/company/raiffeisenbank/blog/346770/ - Недокументированные приемы CSS
