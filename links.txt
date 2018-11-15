@@ -1,5 +1,5 @@
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-    GAME DEV
+   		GAME DEV
 https://habrahabr.ru/post/347948/ - Геймдизайнер. Кто это?
 http://hsbi.hse.ru/programs/vocational_retraining/menedzhment-igrovykh-internet-proektov/useful-resources/ - ПОЛЕЗНЫЕ РЕСУРСЫ ПО ГЕЙМДЕВУ
 https://www.redblobgames.com/grids/line-drawing.html
