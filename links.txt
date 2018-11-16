@@ -5,6 +5,7 @@ http://hsbi.hse.ru/programs/vocational_retraining/menedzhment-igrovykh-internet-
 https://www.redblobgames.com/grids/line-drawing.html
 https://habrahabr.ru/post/346696/ - Пишем многопользовательскую змейку на tornado
 https://habr.com/post/418685/ - Процедурная генерация уровней
+https://habr.com/post/429258/ - Как создать надёжную игровую механику, пользуясь только Excel: моделирование и оптимизация решений
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		UNITY
