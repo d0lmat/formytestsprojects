@@ -66,6 +66,7 @@ https://habr.com/company/ruvds/blog/429556/ - часть 2: стиль кода 
 https://habr.com/company/ruvds/blog/429838/ - часть 3: переменные, типы данных, выражения, объекты
 https://habr.com/company/ruvds/blog/430382/ - часть 4: функции
 https://habr.com/company/ruvds/blog/430380/ - часть 5: массивы и циклы
+https://habr.com/company/ruvds/blog/430376/ - часть 6: исключения, точка с запятой, шаблонные литералы
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		DJANGO
