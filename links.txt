@@ -70,6 +70,8 @@ https://habr.com/company/ruvds/blog/430382/ - часть 4: функции
 https://habr.com/company/ruvds/blog/430380/ - часть 5: массивы и циклы
 https://habr.com/company/ruvds/blog/430376/ - часть 6: исключения, точка с запятой, шаблонные литералы
 https://habr.com/company/ruvds/blog/431072/ - часть 7: строгий режим, ключевое слово this, события, модули, математические вычисления
+https://habr.com/company/ruvds/blog/431074/ - часть 8: обзор возможностей стандарта ES6
+https://habr.com/company/ruvds/blog/431872/ - часть 9: обзор возможностей стандартов ES7, ES8 и ES9
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		DJANGO
