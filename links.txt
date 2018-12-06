@@ -10,6 +10,7 @@ https://habr.com/post/429920/ - Трагикомедия в NaN актах: ка
 https://habr.com/post/429478/ - Гейм-дизайн: новый подход к уровням сложности.
 https://habr.com/post/272933/ - Да пребудет с вами прокрутка: теория и практика по камере в платформерах [1/2]
 https://habr.com/post/273397/ - Да пребудет с вами прокрутка: теория и практика по камере в платформерах [2/2]
+https://habr.com/post/432062/ - Разработка ИИ на примере игры Dicey Dungeons
 
 https://vc.ru/flood/35119-59-sposobov-monetizacii-igry-kak-sdelat-svoy-proekt-pribylnym - 59 способов монетизации игры
 
