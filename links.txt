@@ -57,6 +57,8 @@ https://habrahabr.ru/company/infowatch/blog/330030/ - Динамический A
 https://habr.com/company/ruvds/blog/421345/ - Angular: неочевидные возможности селекторов директив.
 https://habr.com/company/ruvds/blog/425661/ - 22 совета Angular-разработчику. Часть 1.
 https://habr.com/company/tinkoff/blog/429692/ - Оптимизация обработки событий в Angular
+https://habr.com/company/ruvds/blog/431876/ - Оптимизация Angular-приложений
+https://habr.com/post/429342/ - Angular 6+ полное руководство по внедрению зависимостей.  providedIn vs providers:[]
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		JS
