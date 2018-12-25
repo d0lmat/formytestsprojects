@@ -94,3 +94,6 @@ https://habrahabr.ru/post/313764/ - Стратегии расширения Djan
 https://habr.com/post/425881/ - Все, что вам нужно знать о выравнивании во Flexbox
 https://habrahabr.ru/company/raiffeisenbank/blog/346770/ - Недокументированные приемы CSS
 
+
+
+https://gdn.giants-software.com/
