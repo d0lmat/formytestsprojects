@@ -19,7 +19,7 @@
 ]]>
         </de>
     </description>
-    <iconFilename>todo.png</iconFilename>
+    <iconFilename>img/todo.png</iconFilename>
     <multiplayer supported="true" />
     <extraSourceFiles>
 		<sourceFile filename="register.lua" />
