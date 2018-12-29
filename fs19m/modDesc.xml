@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="41">
+    <author>ME</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Test Mod</en>
+        <de>Test Mod</de>
+    </title>
+    <description>
+        <en>
+<![CDATA[Description will be here
+
+]]>
+        </en>
+        <de>
+<![CDATA[Beschreibung wird hier sein
+
+
+]]>
+        </de>
+    </description>
+    <iconFilename>todo.png</iconFilename>
+    <multiplayer supported="true" />
+    <extraSourceFiles>
+		<sourceFile filename="register.lua" />
+	</extraSourceFiles>
+</modDesc>
