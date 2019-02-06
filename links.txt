@@ -1,5 +1,11 @@
 https://habr.com/company/edison/blog/434034/ - Годные туториалы на YouTube
 
+texures MC
+https://www.planetminecraft.com/texture_pack/joenoedoe/
+https://www.planetminecraft.com/texture_pack/ultra-realism-3-v2-hd-1-8-1-13/
+https://www.planetminecraft.com/texture_pack/vintage-ultra-hd-1-8-1-13-4255683/
+https://www.planetminecraft.com/texture_pack/beautiful-ultra-realistic-512x512-1-8-1-13/
+
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
    		GAME DEV
 https://habrahabr.ru/post/347948/ - Геймдизайнер. Кто это?
