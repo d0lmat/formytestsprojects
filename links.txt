@@ -1,5 +1,7 @@
 https://habr.com/company/edison/blog/434034/ - Годные туториалы на YouTube
 
+
+https://github.com/ddevault/TrueCraft
 texures MC
 https://www.planetminecraft.com/texture_pack/joenoedoe/
 https://www.planetminecraft.com/texture_pack/ultra-realism-3-v2-hd-1-8-1-13/
@@ -25,8 +27,6 @@ https://vc.ru/flood/35119-59-sposobov-monetizacii-igry-kak-sdelat-svoy-proekt-pr
 https://www.ctrlpaint.com/library/ - draw learning
 
 https://habr.com/post/433816/ - Список магазинов мобильных приложений 2018
-
-https://github.com/ddevault/TrueCraft
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		UNITY
