@@ -108,3 +108,4 @@ https://habrahabr.ru/company/raiffeisenbank/blog/346770/ - Недокумент�
 https://gdn.giants-software.com/
 
 https://github.com/Allexin/BillDownloader/blob/master/src/cnetclient.cpp
+https://github.com/dlenski/python-zxing
