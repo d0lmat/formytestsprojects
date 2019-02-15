@@ -52,6 +52,8 @@ https://habr.com/post/429640/ - Давайте уберём кватернион
 https://habr.com/post/430118/ - Unity3D: Модификация делегата iOS приложения
 https://habr.com/post/430438/ - Реалистичные тени для roguelike (теория)
 
+https://alastaira.wordpress.com/ - blog
+
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		PYTON
 https://habr.com/post/416617/ - Аналоги в Python и JavaScript. 
