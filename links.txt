@@ -53,6 +53,7 @@ https://habr.com/post/430118/ - Unity3D: Модификация делегата
 https://habr.com/post/430438/ - Реалистичные тени для roguelike (теория)
 
 https://alastaira.wordpress.com/ - blog
+https://forum.unity.com/threads/tutorial-c-voxel-terrain-with-infinite-terrain-saving-and-loading.293340/
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		PYTON
