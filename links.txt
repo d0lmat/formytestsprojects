@@ -112,3 +112,9 @@ https://gdn.giants-software.com/
 
 https://github.com/Allexin/BillDownloader/blob/master/src/cnetclient.cpp
 https://github.com/dlenski/python-zxing
+
+Keith Ferrazzi — “Never Eat Alone”
+Нора Галь — «Слово живое и мертвое»
+Tracy Fullerton — «Game Design Workshop: A Playcentric Approach to Creating Innovative Games«
+Jesse Schell — «The Art of Game Design: A Book of Lenses» / Brenda Brathwaite — «Challenges for Game Designers«
+Mihaly Csikszentmihalyi — «Flow: The Psychology of Optimal Experience» / Raph Koster — «Theory of Fun for Game Design«
