@@ -113,6 +113,7 @@ https://gdn.giants-software.com/
 https://github.com/Allexin/BillDownloader/blob/master/src/cnetclient.cpp
 https://github.com/dlenski/python-zxing
 
+https://gamifique.files.wordpress.com/2011/11/1-rules-of-play-game-design-fundamentals.pdf
 Keith Ferrazzi — “Never Eat Alone”
 Нора Галь — «Слово живое и мертвое»
 Tracy Fullerton — «Game Design Workshop: A Playcentric Approach to Creating Innovative Games«
