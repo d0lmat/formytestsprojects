@@ -23,6 +23,8 @@ https://habr.com/post/273397/ - Да пребудет с вами прокрут
 https://habr.com/post/432062/ - Разработка ИИ на примере игры Dicey Dungeons
 https://habr.com/post/433908/ - Тетрис на C# в 100 строк
 
+https://www.gamasutra.com/blogs/LeandroGonzalez/20160726/277928/How_to_Write_a_Game_Design_Document.php - GDD Template
+
 https://vc.ru/flood/35119-59-sposobov-monetizacii-igry-kak-sdelat-svoy-proekt-pribylnym - 59 способов монетизации игры
 https://www.ctrlpaint.com/library/ - draw learning
 
