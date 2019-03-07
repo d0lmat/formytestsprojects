@@ -55,6 +55,7 @@ https://habr.com/post/430146/ - Математика в Gamedev по-прост�
 https://habr.com/post/429640/ - Давайте уберём кватернионы из всех 3D-движков
 https://habr.com/post/430118/ - Unity3D: Модификация делегата iOS приложения
 https://habr.com/post/430438/ - Реалистичные тени для roguelike (теория)
+https://habr.com/ru/post/442622/ - Как сделать корутины в Unity немного удобнее
 
 https://alastaira.wordpress.com/ - blog
 https://forum.unity.com/threads/tutorial-c-voxel-terrain-with-infinite-terrain-saving-and-loading.293340/
