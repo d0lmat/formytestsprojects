@@ -61,7 +61,9 @@ https://forum.unity.com/threads/tutorial-c-voxel-terrain-with-infinite-terrain-s
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		PYTON
-https://habr.com/post/416617/ - Аналоги в Python и JavaScript. 
+https://habr.com/post/416617/ - Аналоги в Python и JavaScript.
+https://habr.com/ru/company/compscicenter/blog/438058/ - «Анализ данных на Python» в двух частях
+https://habr.com/ru/company/ruvds/blog/442516/ - Руководство по использованию pandas для анализа больших наборов данных
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		ANGULAR 2+
