@@ -1,3 +1,6 @@
+https://habr.com/ru/post/418545/ - Создание «искусственной жизни» на компьютере
+https://github.com/CyberBiology/CyberBiology - JAVA implementation
+
 https://habr.com/ru/post/445258/ - Как безопасно удалить ваши данные со смартфона под Android перед его продажей
 
 https://pastebin.com/7BWupKtW
