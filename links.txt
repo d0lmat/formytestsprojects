@@ -39,6 +39,7 @@ https://habr.com/post/433816/ - Список магазинов мобильны
 
 https://arpubrothers.com/blog/advertising-budget-hyper-casual-game/ - Калькулятор рекламного бюджета
 
+http://gameprogrammingpatterns.com/architecture-performance-and-games.html
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 		UNITY
 https://habrahabr.ru/post/345972/ - ТАУ для самых маленьких: пример реализации ПИД-регулятора в Unity3D
