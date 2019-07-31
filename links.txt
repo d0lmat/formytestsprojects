@@ -29,6 +29,7 @@ https://habr.com/post/272933/ - Да пребудет с вами прокрут
 https://habr.com/post/273397/ - Да пребудет с вами прокрутка: теория и практика по камере в платформерах [2/2]
 https://habr.com/post/432062/ - Разработка ИИ на примере игры Dicey Dungeons
 https://habr.com/post/433908/ - Тетрис на C# в 100 строк
+https://habr.com/ru/post/461323/ - Доступное объяснение алгоритма коллапса волновой функции
 
 https://www.gamasutra.com/blogs/LeandroGonzalez/20160726/277928/How_to_Write_a_Game_Design_Document.php - GDD Template
 
